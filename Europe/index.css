@@ -1,0 +1,16 @@
+body {
+  background-color: rgb();
+}
+h1{
+  color: rgb();
+}
+.col-container{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.left-col{
+  background-color: red; 
+}
+.righ-col{
+  background-color: yellow;
+}
