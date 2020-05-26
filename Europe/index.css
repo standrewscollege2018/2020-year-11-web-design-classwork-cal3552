@@ -3,13 +3,21 @@ body {
 }
 h1{
   color: rgb();
+  font-size: 12pt
+}
+p {
+  font-family: Arial, sans-serif;;
+}
+title {
+  font-size: 16pt
 }
 .col-container{
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+
 }
 .left-col{
-  background-color: red; 
+  background-color: red;
 }
 .righ-col{
   background-color: yellow;
