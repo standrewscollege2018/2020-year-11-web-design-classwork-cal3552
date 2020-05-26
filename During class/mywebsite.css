@@ -1,0 +1,19 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+h1 {
+  font-family: Arial, Verdana, Comic, sans-serif;
+}
+.col-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+}
+.photos {
+  padding: 20px;
+  background-color: rgb(118,222,182);
+}
+.info-and-links {
+  padding: 20px;
+  background-color: rgb(104,207,232);
+}
