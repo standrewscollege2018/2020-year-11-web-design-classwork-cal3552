@@ -1,0 +1,26 @@
+*{
+  padding: 0px;
+  margin: 0px;
+
+}
+body {
+  background-color: rgb(181, 168, 167);
+}
+.guess {
+  width: 500px;
+  margin: 100px auto;
+  background-color: rgb(240, 240, 240);
+  border: 1px solid black;
+  border-radius: 10px;
+  text-align: center;
+  padding: 30px;
+}
+/* .correctornot {
+  width: 500px;
+  height: auto;
+  margin: 100px auto;
+  background-color: rgb(240, 240, 240);
+  border: 1px solid black;
+  border-radius: 10px;
+  text-align: center;
+} */
