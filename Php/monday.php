@@ -12,7 +12,7 @@
 
       // all variables start with a $
       $name = "";
-      echo "Hello $name"; 
+      echo "Hello $name";
      ?>
      <form action="hello.php" method="post">
        <input type="text" name="firstname" placeholder="Enter your name">
